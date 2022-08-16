@@ -18,7 +18,7 @@ spec:
     - name: recommendations
       service: recommendations
       port: 8001
-      - name: spa-dark
+    - name: spa-dark
       service: spa-dark
       port: 80
   routes:
