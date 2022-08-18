@@ -1,3 +1,5 @@
 .DS_Store
 config-udf.yaml
 config-udf.yml
+*.crt
+*.key
